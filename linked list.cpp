@@ -27,7 +27,7 @@ public:
 	void selection();
 	void bubble();
 	void rep(int d, int p);
-	void meanmedian();
+	void meanmedian(); // Find Mean and Median
 };
 List::List()
 {
